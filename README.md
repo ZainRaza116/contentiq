@@ -28,7 +28,7 @@ Git
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/contentiq.git
+Clone the repository:git clone https://github.com/ZainRaza116/contentiq.git
 cd contentiq
 
 
